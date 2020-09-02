@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(to right, rgba(223, 223, 149, 0.733), rgba(233, 233, 10, 0.932));
+}
+
+.container{
+    text-align: center;
+    margin-top: 2%;
+    
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 25px;
+    border: 3px #ff6a0094 solid;
+    box-shadow: 3px 3px #ff6a0094;
+    width: 380px;
+    border-radius: 20px;
+
+}
+
+button{
+    font-size: 30px;
+    border: 2px solid #ff6a0094;
+    border-radius: 20px;
+    width: 90px;
+    height: 54px;
+    background-color: #ff6a0094;
+    cursor: pointer;
+    box-shadow: 1px 1px #ff6a0094;
+}
+
+.calculator{
+    border: 2px solid #ff6a0094;
+    background-color: black;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+button:hover{
+    color: white
+}
+
